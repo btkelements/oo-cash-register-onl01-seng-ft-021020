@@ -32,7 +32,7 @@ class CashRegister
   end
 
   def items
-    @title
+    self.items
   end
 
   def void_last_transaction
